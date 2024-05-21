@@ -9,7 +9,7 @@ from datetime import datetime,timedelta
 
 
 
-nltk.download('punkt')
+#nltk.download('punkt')
 
 st.set_page_config(page_title = "InNews🌍: A Summerised News Portal",
                    page_icon = "./Meta/newspaper.ico")
